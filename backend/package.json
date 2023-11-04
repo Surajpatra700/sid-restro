@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node resturant/backend/index.js",
-    "dev": "nodemon resturant/backend/index.js",
+    "start": "node index.js",
+    "dev": "nodemon index.js",
     "build": "npm i"
   },
   "keywords": [],
